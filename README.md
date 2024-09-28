@@ -11,7 +11,7 @@ To use the this program, you need to have Node.js installed on your system. You 
 ### Usage
 1. Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://learn.zone01kisumu.ke/git/josotieno/guess-it-1
+    git clone https://github.com/JosephOkumu/Guess-it-1
     ```
 2. Navigate into the guess-it-1 directory, then navigate to the student directory:
     ```bash
@@ -57,7 +57,7 @@ Pull requests are welcome. You can contribute to this project by adding new feat
 For major changes, please open an issue first to discuss what you would like to change.
 
 ### Author
-[josotieno](https://learn.zone01kisumu.ke/git/josotieno)
+[JosephOkumu](https://github.com/JosephOkumu)
 
 ### License
 [LICENSE](./LICENSE)
