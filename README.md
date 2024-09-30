@@ -44,9 +44,10 @@ To use the this program, you need to have Node.js installed on your system. You 
 ### Testing
 1.  Download the zip file for testing [here](https://assets.01-edu.org/guess-it/guess-it-dockerized.zip)
 2.  Extract the zip file.
-3.  Copy the student folder from this project and paste it inside the extracted folder.
-4.  Follow the instructions present in the ReadMe of the extracted folder for testing.
-5. Instead of "docker composer up" command, use "npm start" to run the test.
+3.  Ensure permissions for the script.sh inside the student folder is enabled. If not, use "chmod +x script.sh" command to enable permissions.
+4.  Copy the student folder from this project and paste it inside the extracted folder.
+5.  Follow the instructions present in the ReadMe of the extracted folder for testing.
+6. Instead of "docker composer up" command, use "npm start" to run the test.
 
 ### Features
 - Displays the range for the next user input.
